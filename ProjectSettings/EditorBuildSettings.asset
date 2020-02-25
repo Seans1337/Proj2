@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Main.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/YouDead.unity
+    guid: 17d29747da793a24aa6e7dba185da335
+  - enabled: 1
+    path: Assets/Scenes/donaldo_trump.unity
+    guid: 82506c6c1991e104c92b5aaefbce279b
+  - enabled: 1
+    path: Assets/Scenes/Gates.unity
+    guid: 61f01d8c8699c3840aa70416bddfa7c0
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 3010a31448582ad4cbf0a3c5f25a80a3
   m_configObjects: {}

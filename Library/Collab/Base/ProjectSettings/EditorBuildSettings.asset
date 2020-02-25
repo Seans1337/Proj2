@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/YouDead.unity
+    guid: 17d29747da793a24aa6e7dba185da335
+  - enabled: 1
+    path: Assets/Scenes/donaldo_trump.unity
+    guid: 82506c6c1991e104c92b5aaefbce279b
+  m_configObjects: {}

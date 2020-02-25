@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{6D43DD6C-8DA8-B55F-1A8F-C0B6B0228F1B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/SummonChaser.cs">
+    <Files>
+      <File FileName="Assets/scripts/Bandit.cs" Line="177" Column="1" />
+      <File FileName="../3DTutorialBase/Assets/Scripts/Enemy/EnemyController.cs" Line="59" Column="43" />
+      <File FileName="../ColliderLab/Assets/Scripts/ShooterScript.cs" Line="8" Column="28" />
+      <File FileName="Assets/scripts/SummonChaser.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Gane Mam" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="SummonChaser.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3aa4e4a1-8a6c-4e08-87e7-1b5257c0291a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
