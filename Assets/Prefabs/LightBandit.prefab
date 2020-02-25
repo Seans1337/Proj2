@@ -50,7 +50,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_speed: 2
-  m_jumpForce: 2
+  m_jumpForce: 2.5
   fireballFab: {fileID: 8434353398787284638, guid: 26539260ee52e2d4db27f719f57afef2,
     type: 3}
   fireball_speed: 1

@@ -48,7 +48,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba8b435a8dc3f604e9a13c4acd7081c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_speed: 2.3
+  m_speed: 2.5
   m_jumpForce: 2.5
   fireballFab: {fileID: 0}
   fireball_speed: 1
